@@ -97,14 +97,6 @@ To run this project locally:
 
 ---
 
-## 🙋‍♂️ Author
-
-**Your Name**
-- 🌐 Portfolio: `https://yourportfolio.com`
-- 💼 LinkedIn: `https://linkedin.com/in/yourprofile`
-- 🐙 GitHub: `https://github.com/yourusername`
-
----
 
 ## 📄 License
 
